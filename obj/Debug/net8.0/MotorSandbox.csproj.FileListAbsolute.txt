@@ -1,0 +1,14 @@
+C:\Users\fiach\source\repos\MotorSandbox\obj\Debug\net8.0\MotorSandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiach\source\repos\MotorSandbox\obj\Debug\net8.0\MotorSandbox.AssemblyInfoInputs.cache
+C:\Users\fiach\source\repos\MotorSandbox\obj\Debug\net8.0\MotorSandbox.AssemblyInfo.cs
+C:\Users\fiach\source\repos\MotorSandbox\obj\Debug\net8.0\MotorSandbox.csproj.CoreCompileInputs.cache
+C:\Users\fiach\source\repos\MotorSandbox\bin\Debug\net8.0\MotorSandbox.exe
+C:\Users\fiach\source\repos\MotorSandbox\bin\Debug\net8.0\MotorSandbox.deps.json
+C:\Users\fiach\source\repos\MotorSandbox\bin\Debug\net8.0\MotorSandbox.runtimeconfig.json
+C:\Users\fiach\source\repos\MotorSandbox\bin\Debug\net8.0\MotorSandbox.dll
+C:\Users\fiach\source\repos\MotorSandbox\bin\Debug\net8.0\MotorSandbox.pdb
+C:\Users\fiach\source\repos\MotorSandbox\obj\Debug\net8.0\MotorSandbox.dll
+C:\Users\fiach\source\repos\MotorSandbox\obj\Debug\net8.0\refint\MotorSandbox.dll
+C:\Users\fiach\source\repos\MotorSandbox\obj\Debug\net8.0\MotorSandbox.pdb
+C:\Users\fiach\source\repos\MotorSandbox\obj\Debug\net8.0\MotorSandbox.genruntimeconfig.cache
+C:\Users\fiach\source\repos\MotorSandbox\obj\Debug\net8.0\ref\MotorSandbox.dll
